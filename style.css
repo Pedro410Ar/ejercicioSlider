@@ -37,7 +37,8 @@
     /* background-image: url("./img/tormentas-rayos.jpg"); */
     /*background-image: url("./img/puertomadero3.jpg"); */
     /*background-image: url("./img/women-before-after-makeup-lena-motinova-1.jpg");*/
-    background-image: url("./img/summer-winter-12.jpg"); 
+    /*background-image: url("./img/summer-winter-12.jpg"); */
+    background-image: url("./img/fall.jpg");
 }
 
 
@@ -45,7 +46,8 @@
     /*background-image: url("./img/tormentas-rayos-22-1024x682.jpg");*/
     /*background-image: url("./img/puertomadero2.jpg"); */ 
     /* background-image: url("./img/women-before-after-makeup-lena-motinova-3.jpg");*/
-    background-image: url("./img/summer-winter-13.jpg"); 
+   /* background-image: url("./img/summer-winter-13.jpg"); */
+     background-image: url("./img/winter1.jpg"); 
     left: 50%;
     background-attachment: fixed;
     border-left: 3px solid #111;
